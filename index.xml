@@ -48,25 +48,11 @@ Der Hauptgrund für den Namen ist zum einen mein Nickname: &amp;ldquo;chrisWhyTe
       
       <guid>http://chris.yt/projects/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
+  &lt;div class=&#34;column-100&#34;&gt;
     &lt;div class=&#34;project&#34;&gt;
       &lt;h3&gt;HeyHey Wiki&lt;/h3&gt;
       &lt;p&gt;Eine Wikisoftware geschrieben in Python3. Die Wikisoftware ist hauptsächlich für den localhost bzw. LAN Gebrauch angedacht.
       Mich hatten die bestehenden Wikilösungen (z.B. MoinMoin oder MediaWiki) gestört, da sie entweder aufgebläht, in PHP geschrieben, veraltet und/oder sehr bescheiden Dokumentiert waren. Das Ziel von Hey Hey Wiki ist, mit einer sehr kleinen Code Basis ein Wiki bereitzustellen, das &#39;Out of the Box&#39; genutzt werden kann, vorrausgesetzt Python 3 ist installiert. Hauptsächlich für das GDD von &lt;b&gt;Phase Walker&lt;/b&gt; entwicklet.&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
-    &lt;div class=&#34;project&#34;&gt;
-      &lt;h3&gt;Crowfall-Data&lt;/h3&gt;
-      &lt;p&gt;Crowfall-Data ist eine sich im Aufbau befindende Itemdatenbank für das nochnicht releasete MMORPG &#39;Crowfall&#39;. Der erste Prototyp wurde mit Flask und SQLAlchemy entwickelt, wird nun aber in Django neu geschrieben um die Entwicklung und Komponenten einheitlich und wiederverwendbarer zu gestallten. &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-100&#34;&gt;
-    &lt;div class=&#34;project&#34;&gt;
-      &lt;h3&gt;Phase Walker&lt;/h3&gt;
-      &lt;p&gt;Ein Tactic RPG ganz im stil von Final Fantasy Tactics, das sich in der frühen Konzeptions- und Prototypphase befindet.&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -86,19 +72,19 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
 
 &lt;h3 id=&#34;und-das-sind-meine-werkzeuge&#34;&gt;Und das sind meine Werkzeuge&lt;/h3&gt;
 
-&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;column-50&#34;&gt;
     &lt;div class=&#34;me&#34;&gt;
       &lt;img src=&#34;http://chris.yt/img/icons/languages.svg&#34;&gt;
       &lt;h3&gt;Programmiersprachen&lt;/h3&gt;
-      &lt;p&gt;Python, Go, C#, GML, HTML5, Sass, Less, PHP* &lt;/p&gt;
+      &lt;p&gt;Python, Go, C#, GML, HTML5, Sass, Less, Node.js&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;column-50&#34;&gt;
     &lt;div class=&#34;me&#34;&gt;
       &lt;img src=&#34;http://chris.yt/img/icons/frameworks.svg&#34;&gt;
-      &lt;h3&gt;Frameworks, SDK &amp;amp; Librarys&lt;/h3&gt;
-      &lt;p&gt;Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation,Unity3d&lt;/p&gt;
+      &lt;h3&gt;Frameworks, SDK &amp; Librarys&lt;/h3&gt;
+      &lt;p&gt;Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation, Unity3d&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -113,7 +99,7 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
   &lt;div class=&#34;column-50&#34;&gt;
     &lt;div class=&#34;me&#34;&gt;
       &lt;img src=&#34;http://chris.yt/img/icons/deployment.svg&#34;&gt;
-      &lt;h3&gt;Deployment &amp;amp; Production&lt;/h3&gt;
+      &lt;h3&gt;Deployment &amp; Production&lt;/h3&gt;
       &lt;p&gt;Jenkin, Ansible, Docker, Dokku, Heroku, Gitlab CI, Træfik, nginx, apache2&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -123,10 +109,9 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
     &lt;div class=&#34;me&#34;&gt;
       &lt;img src=&#34;http://chris.yt/img/icons/tools.svg&#34;&gt;
       &lt;h3&gt;Tools&lt;/h3&gt;
-      &lt;p&gt;PyCharm, Atom, Gulp, Git, Hugo, Mac OS X, Windows, Linux, Bash/zsh&lt;/p&gt;
+      &lt;p&gt;PyCharm, VSCode, Visual Studio 2017, Gulp, Git, Hugo, Mac OS X, Windows, Linux, Bash/zsh&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;i&gt;*Anmerkung zu PHP: Legacy überbleibsel das ich nicht mehr nutzen will, der Vollständigkeit halber aber aufgezählt wird.&lt;/i&gt;&lt;/p&gt;
 </description>
     </item>
     

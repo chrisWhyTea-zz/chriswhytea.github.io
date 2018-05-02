@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seriously, why tea?</title>
-    <link>http://chris.yt/index.xml</link>
+    <link>http://chris.yt/</link>
     <description>Recent content on Seriously, why tea?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://chris.yt/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://chris.yt/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Alles, hat ein Anfang nur die Wurst hat Zwei!</title>
@@ -15,21 +17,9 @@
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://chris.yt/post/alles-hat-ein-anfang/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Und da sind wir wieder, mit den besten Hits der 80, 90 und dem Besten von Heute&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Neee, das wäre ja Lahm. Also nochmal: Willkommen auf meinem neuen Blog der teils Blog-, als auch als Portfolio Website dienen soll.&lt;/p&gt;
-
-&lt;p&gt;Hier werde ich einerseits über meine Projekte als auch über so ziemlich alles andere, was mir durch den Kopf geht schreiben (Weil irgendjemanden wird es &lt;strong&gt;nicht&lt;/strong&gt; interessieren und genau diese Leute sind nicht die Zielgruppe der Seite). Es musste nach 2 Jahren rumgekrebse mit einer häßlichen Portfolio Page die wirklich alles andere als hübsch war (Oh mann&amp;hellip; wie ich das ding nicht vermissen werde&amp;hellip;) einfach was neues her :D&lt;/p&gt;
-
-&lt;p&gt;Und hier ist sie, mit &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; als Static Site Generator, &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; zum Hosting, &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt; für die Kommentare, meine schnieke &lt;a href=&#34;chris.yt&#34;&gt;chris.yt&lt;/a&gt; Domain, ein paar &lt;a href=&#34;https://www.iconfinder.com/webalys&#34;&gt;Icons&lt;/a&gt; die zum teil was gekostet haben, und ein paar zeilen schlichtes CSS und zack fertig, meine Website/Blog der den tiefsinnigen namen &amp;ldquo;Seriously, why tea?&amp;rdquo; trägt.&lt;/p&gt;
-
-&lt;p&gt;Zur enttäuschung aller Teevernahten eins vorweg: Das wird kein Blog über den geilsten und angesagtesten Tee (Auch wenn ich nichts gegen einen guten Genmaicha einzuwenden habe)&amp;hellip; sorry.
-Der Hauptgrund für den Namen ist zum einen mein Nickname: &amp;ldquo;chrisWhyTea&amp;rdquo; der letztlich zustande kam, als ich die &lt;a href=&#34;chris.yt&#34;&gt;chris.yt&lt;/a&gt; Domain gekauft habe, ich brauchte irgendwas melodisch klingendes und das kam dabei raus :D Außerdem finde ich, dass es lustig klingt, wenn man mal wirklich ernst nachfragt, warum einem Tee aufgetischt wird&amp;hellip; Ja, is bullshit&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Mehr content wird definitiv kommen, muss aber erstmal schauen dass die Website wirklich 100% so läuft wie ich das will.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PS: Sorry für diesen mehr als schlechten Post aber irgendwas zur Einführung muss man ja schreiben ;)&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Und da sind wir wieder, mit den besten Hits der 80, 90 und dem Besten von Heute&amp;hellip;
+Neee, das wäre ja Lahm. Also nochmal: Willkommen auf meinem neuen Blog der teils Blog-, als auch als Portfolio Website dienen soll.
+Hier werde ich einerseits über meine Projekte als auch über so ziemlich alles andere, was mir durch den Kopf geht schreiben (Weil irgendjemanden wird es nicht interessieren und genau diese Leute sind nicht die Zielgruppe der Seite).</description>
     </item>
     
     <item>
@@ -47,16 +37,7 @@ Der Hauptgrund für den Namen ist zum einen mein Nickname: &amp;ldquo;chrisWhyTe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://chris.yt/projects/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-100&#34;&gt;
-    &lt;div class=&#34;project&#34;&gt;
-      &lt;h3&gt;HeyHey Wiki&lt;/h3&gt;
-      &lt;p&gt;Eine Wikisoftware geschrieben in Python3. Die Wikisoftware ist hauptsächlich für den localhost bzw. LAN Gebrauch angedacht.
-      Mich hatten die bestehenden Wikilösungen (z.B. MoinMoin oder MediaWiki) gestört, da sie entweder aufgebläht, in PHP geschrieben, veraltet und/oder sehr bescheiden Dokumentiert waren. Das Ziel von Hey Hey Wiki ist, mit einer sehr kleinen Code Basis ein Wiki bereitzustellen, das &#39;Out of the Box&#39; genutzt werden kann, vorrausgesetzt Python 3 ist installiert. Hauptsächlich für das GDD von &lt;b&gt;Phase Walker&lt;/b&gt; entwicklet.&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>HeyHey Wiki Eine Wikisoftware geschrieben in Python3. Die Wikisoftware ist hauptsächlich für den localhost bzw. LAN Gebrauch angedacht. Mich hatten die bestehenden Wikilösungen (z.B. MoinMoin oder MediaWiki) gestört, da sie entweder aufgebläht, in PHP geschrieben, veraltet und/oder sehr bescheiden Dokumentiert waren. Das Ziel von Hey Hey Wiki ist, mit einer sehr kleinen Code Basis ein Wiki bereitzustellen, das &#39;Out of the Box&#39; genutzt werden kann, vorrausgesetzt Python 3 ist installiert. Hauptsächlich für das GDD von Phase Walker entwicklet.</description>
     </item>
     
     <item>
@@ -65,54 +46,7 @@ Der Hauptgrund für den Namen ist zum einen mein Nickname: &amp;ldquo;chrisWhyTe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://chris.yt/about-me/</guid>
-      <description>
-
-&lt;p&gt;Ich bin der Chris, mein voller Name ist Christopher Schmitt, bin 26 Jahre alt und wohne im schönen München, komme aber gebürtig aus der nähe von Mainz. Ich bin ausgebildeter Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung und arbeite derzeit als Python Backend Entwickler bei der Hetzner Cloud GmbH. Ich kann sprichwörtlich behaupten, das ich mein Hobby zum Beruf gemacht habe.
-Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Programmieren, Computerbasteleien, Videospiele), bin ich auch begeisterter Fan der japanischen Popkultur, ich liebe Anime und Manga und lese aber auch gerne ganz normale Bücher (naja &amp;hellip; eher E-Books).&lt;/p&gt;
-
-&lt;h3 id=&#34;und-das-sind-meine-werkzeuge&#34;&gt;Und das sind meine Werkzeuge&lt;/h3&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
-    &lt;div class=&#34;me&#34;&gt;
-      &lt;img src=&#34;http://chris.yt/img/icons/languages.svg&#34;&gt;
-      &lt;h3&gt;Programmiersprachen&lt;/h3&gt;
-      &lt;p&gt;Python, Go, C#, GML, HTML5, Sass, Less, Node.js&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
-    &lt;div class=&#34;me&#34;&gt;
-      &lt;img src=&#34;http://chris.yt/img/icons/frameworks.svg&#34;&gt;
-      &lt;h3&gt;Frameworks, SDK &amp; Librarys&lt;/h3&gt;
-      &lt;p&gt;Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation, Unity3d&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
-    &lt;div class=&#34;me&#34;&gt;
-      &lt;img src=&#34;http://chris.yt/img/icons/databases.svg&#34;&gt;
-      &lt;h3&gt;Datenbanken&lt;/h3&gt;
-      &lt;p&gt;PostgreSQL, ArangoDB, RethinkDB, MySQL, Redis, SQLite, MongoDB, CouchDB&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;column-50&#34;&gt;
-    &lt;div class=&#34;me&#34;&gt;
-      &lt;img src=&#34;http://chris.yt/img/icons/deployment.svg&#34;&gt;
-      &lt;h3&gt;Deployment &amp; Production&lt;/h3&gt;
-      &lt;p&gt;Jenkin, Ansible, Docker, Dokku, Heroku, Gitlab CI, Træfik, nginx, apache2&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;column-100&#34;&gt;
-    &lt;div class=&#34;me&#34;&gt;
-      &lt;img src=&#34;http://chris.yt/img/icons/tools.svg&#34;&gt;
-      &lt;h3&gt;Tools&lt;/h3&gt;
-      &lt;p&gt;PyCharm, VSCode, Visual Studio 2017, Gulp, Git, Hugo, Mac OS X, Windows, Linux, Bash/zsh&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
+      <description>Mein Name ist Christopher Schmitt, bin 27 Jahre alt und wohne im schönen München, komme aber gebürtig aus der nähe von Mainz. Ich bin ausgebildeter Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung und arbeite derzeit als Python Backend Entwickler bei der Hetzner Cloud GmbH. Ich kann sprichwörtlich behaupten, das ich mein Hobby zum Beruf gemacht habe. Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Programmieren, Computerbasteleien, Videospiele), bin ich auch begeisterter Fan der japanischen Popkultur, ich liebe Anime und Manga und lese aber auch gerne ganz normale Bücher (naja &amp;hellip; eher E-Books).</description>
     </item>
     
   </channel>

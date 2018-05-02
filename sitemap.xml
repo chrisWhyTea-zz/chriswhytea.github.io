@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>http://chris.yt/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chris.yt/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -30,6 +36,12 @@
   <url>
     <loc>http://chris.yt/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chris.yt/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
